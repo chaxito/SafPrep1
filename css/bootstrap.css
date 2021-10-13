@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(18, 185, 129);
+}
+h1{
+    color: blue;
+}
+p{
+    font-size: small;
+    font-family: sans-serif;
+}
+head{
+    font-stretch: extra-expanded;
+}
