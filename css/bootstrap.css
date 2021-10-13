@@ -1,12 +1,16 @@
 body {
     background-color: rgb(18, 185, 129);
+
 }
 h1{
     color: blue;
+    size: 100cm;
 }
 p{
     font-size: small;
     font-family: sans-serif;
+    size: 100cm;
+    
 }
 head{
     font-stretch: extra-expanded;
