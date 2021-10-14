@@ -15,6 +15,6 @@ p {
 head {
     font-stretch: extra-expanded;
 }
-class {
-    .fon
+a {
+    font-style: italic;
 }
