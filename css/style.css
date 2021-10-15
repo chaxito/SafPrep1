@@ -12,3 +12,7 @@ ol {
 ul {
     font-style: italic;
 }
+.sidebar {
+    float: right;
+    
+}
