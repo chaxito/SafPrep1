@@ -10,7 +10,15 @@ The project is for learning purposes meant to achieve the following;
 
 Etc.
 
+(more wil be updated as the project is in working progress)
+
+## Description of Project
+This project is majorly for learning purposes, HTML and CSS are the current languages used. 
+
+## Installation
+This project is a static webpage, no need for installation.
 You can access this project online via gh-pages URL, [click here](https://chaxito.github.io/SafPrep1)
 
-Lets have fun, your ideas are welcome.
+## Credits
+Special appreciation given to Moringa School.
 
