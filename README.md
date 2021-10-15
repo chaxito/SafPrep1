@@ -10,7 +10,7 @@ The project is for learning purposes meant to achieve the following;
 
 Etc.
 
-(more wil be updated as the project is in working progress)
+(more will be updated as the project is in working progress)
 
 ## Description of Project
 This project is majorly for learning purposes, HTML and CSS are the current languages used. 
