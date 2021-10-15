@@ -11,7 +11,7 @@ The project is for learning purposes meant to achieve the following;
 
 Etc.
 
-You can access this project online via gh-pages URL,<a target="_blank"> [click here]</a>(https://chaxito.github.io/SafPrep1)
+You can access this project online via gh-pages URL, [click here](https://chaxito.github.io/SafPrep1)
 
 Lets have fun, your ideas are welcome.
 
