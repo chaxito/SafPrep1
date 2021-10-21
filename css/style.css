@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 75%;
 }
 a{
@@ -12,7 +12,19 @@ ol {
 ul {
     font-style: italic;
 }
-.sidebar {
-    float: right;
-    
+.sideright {
+    float:right  
+}
+.sideleft {
+    float:inline-start;
+}
+.sidecenter {
+    columns: 100px 2;
+}
+.img {  
+    margin: 15px;
+    width: 50cm;
+}
+span {
+    color: blue;
 }
