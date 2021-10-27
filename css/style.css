@@ -6,6 +6,7 @@ body {
 a{
     font-style: italic;
     font-weight: bold;
+    color: lime;
 }
 ol {
     font-style: italic;
