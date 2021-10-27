@@ -1,11 +1,13 @@
 h1 {
     color: blue;
     size: 100cm;
+    
 }
 p {
     font-size:medium;
     font-family: sans-serif;
     size: 100cm;
+    color: azure;
     
 }
 head {

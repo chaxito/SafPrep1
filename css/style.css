@@ -1,6 +1,7 @@
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-size: 75%;
+    color: azure;
 }
 a{
     font-style: italic;
@@ -12,6 +13,9 @@ ol {
 ul {
     font-style: italic;
 }
+em {
+    color: lime;
+}
 .sideright {
     float:right  
 }
@@ -19,7 +23,7 @@ ul {
     float:inline-start;
 }
 .sidecenter {
-    columns: 100px 2;
+    columns: 100px 4;
 }
 .img {  
     margin: 15px;
@@ -32,5 +36,13 @@ span {
     border: 2px solid red;
     padding: 6px;
     margin: 20px;
-    background-color: yellow;
+    background-color:floralwhite;
+}
+.send {
+    font-style: italic;
+
+}
+.spacelogo {
+    padding: 6px;
+    margin: 20px;
 }
